@@ -1,0 +1,11 @@
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\ActiveMQClient.exe.config
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\ActiveMQClient.exe
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\ActiveMQClient.pdb
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\Apache.NMS.dll
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\Apache.NMS.pdb
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\Apache.NMS.xml
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\obj\Debug\ActiveMQClient.exe
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\ActiveMQClient\obj\Debug\ActiveMQClient.pdb

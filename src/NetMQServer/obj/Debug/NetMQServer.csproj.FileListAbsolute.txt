@@ -1,0 +1,8 @@
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\bin\Debug\NetMQServer.exe.config
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\bin\Debug\NetMQServer.exe
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\bin\Debug\NetMQServer.pdb
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\bin\Debug\AsyncIO.dll
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\bin\Debug\NetMQ.dll
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\bin\Debug\NetMQ.xml
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\obj\Debug\NetMQServer.exe
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\NetMQServer\obj\Debug\NetMQServer.pdb

@@ -1,0 +1,5 @@
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\MSMQSend\bin\Debug\MSMQSend.exe.config
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\MSMQSend\bin\Debug\MSMQSend.exe
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\MSMQSend\bin\Debug\MSMQSend.pdb
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\MSMQSend\obj\Debug\MSMQSend.exe
+C:\Users\xavier_chen\Documents\Visual Studio 2015\Projects\ZeMq\MSMQSend\obj\Debug\MSMQSend.pdb
